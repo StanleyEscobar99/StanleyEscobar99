@@ -38,6 +38,7 @@ Aspiring Cybersecurity Professional & Emerging Developer <br>
   <img src="https://img.shields.io/badge/Microsoft%20Office-DC3E15.svg?style=for-the-badge&logo=microsoft-office&logoColor=white">
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white">
+  <img src="https://img.shields.io/badge/CompTIA%20A%2B-%23E3242B.svg?style=for-the-badge&logo=comptia&logoColor=white">
 </div>
 </p>
 
