@@ -4,10 +4,10 @@
 
 
 Aspiring Cybersecurity Professional & Emerging Developer
-🌐 Exploring the intersection of cybersecurity and software development
-📚 Pursuing a B.S. in Cybersecurity and Information Assurance at WGU
-💻 Hands-on experience in frontend and backend development
-🔒 Passionate about building secure, innovative, and practical solutions
+🌐 Exploring the intersection of cybersecurity and software development <br>
+📚 Pursuing a B.S. in Cybersecurity and Information Assurance at WGU <br>
+💻 Hands-on experience in frontend and backend development <br>
+🔒 Passionate about building secure, innovative, and practical solutions<br>
 📂 Showcasing projects as I grow and learn
 
 <p>
