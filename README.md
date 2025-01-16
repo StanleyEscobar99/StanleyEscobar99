@@ -3,7 +3,7 @@
 </p>
 
 
-Aspiring Cybersecurity Professional & Emerging Developer
+Aspiring Cybersecurity Professional & Emerging Developer <br>
 🌐 Exploring the intersection of cybersecurity and software development <br>
 📚 Pursuing a B.S. in Cybersecurity and Information Assurance at WGU <br>
 💻 Hands-on experience in frontend and backend development <br>
