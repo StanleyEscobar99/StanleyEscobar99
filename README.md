@@ -17,6 +17,7 @@ Aspiring Cybersecurity Professional & Emerging Developer <br>
 </p>
 
 <p>
+  <h2 align="center">⚙️ Development Skills</h2>
 <div align="center">
   <!-- Development Skills -->
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
@@ -31,6 +32,7 @@ Aspiring Cybersecurity Professional & Emerging Developer <br>
 </div>
 
 <p>
+  <h2 align="center">🛠️ Tools and Platforms</h2>
 <div align="center">
   <!-- Tools and Platforms -->
   <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
@@ -39,7 +41,7 @@ Aspiring Cybersecurity Professional & Emerging Developer <br>
   <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white">
   <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white">
 </div>
-## 📜 Certifications
+<h2 align="center">📜 Professional Certifications</h2>
 
 <div align="center">
   <a href="https://www.credly.com/badges/9d485d58-5bb6-4825-b620-d3e717894cd7" target="_blank">
