@@ -56,11 +56,12 @@
   <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white">
 </div>
 <h2 align="center">📜 Professional Certifications</h2>
-
 <div align="center">
-  <a href="https://www.credly.com/badges/9d485d58-5bb6-4825-b620-d3e717894cd7" target="_blank">
-    <img src="https://img.shields.io/badge/CompTIA%20A%2B-%23E3242B.svg?style=for-the-badge&logo=comptia&logoColor=white">
-  </a>
+  <img src="https://img.shields.io/badge/CompTIA%20A%2B-ED1C24.svg?style=for-the-badge&logo=comptia&logoColor=white">
+  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-ED1C24.svg?style=for-the-badge&logo=comptia&logoColor=white">
+  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-ED1C24.svg?style=for-the-badge&logo=comptia&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux%20Essentials-000000.svg?style=for-the-badge&logo=linux&logoColor=FCC624">
+  <img src="https://img.shields.io/badge/ITIL%204%20Foundation-5B2D8B.svg?style=for-the-badge">
 </div>
 </p>
 
