@@ -1,14 +1,19 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+Stanley+Escobar.;I+love+learning.;I+love+spreading+knowledge.;&center=true&width=500&height=50"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hello+World!;I'm+Stanley+Escobar.;Aspiring+Cybersecurity+Professional.;Hands-on+with+Security+and+IT.;Always+Learning+and+Building.&center=true&width=550&height=50">
+  </a>
 </p>
 
+<p align="center">
+  <strong>Aspiring Cybersecurity Professional | IT & Security-Focused Developer</strong>
+</p>
 
-Aspiring Cybersecurity Professional & Emerging Developer <br>
-🌐 Exploring the intersection of cybersecurity and software development <br>
-📚 Pursuing a B.S. in Cybersecurity and Information Assurance at WGU <br>
-💻 Hands-on experience in frontend and backend development <br>
-🔒 Passionate about building secure, innovative, and practical solutions<br>
-📂 Showcasing projects as I grow and learn
+🌐 Focused on securing systems, data, and applications through hands-on cybersecurity labs and real-world tooling  
+📚 Pursuing a B.S. in Cybersecurity and Information Assurance at Western Governors University (WGU)  
+🔐 Experience with encryption, secure file transfer, access control, and secure email workflows  
+💻 Background in full-stack development with an emphasis on secure coding practices  
+📂 Documenting labs and projects on GitHub as I continue to grow in IT and cybersecurity  
+
 
 <p>
 <div align="center" target="_blank">
@@ -17,7 +22,7 @@ Aspiring Cybersecurity Professional & Emerging Developer <br>
 </p>
 
 <p>
-  <h2 align="center">⚙️ Development Skills</h2>
+  <h2 align="center">💻 Development & Scripting</h2>
 <div align="center">
   <!-- Development Skills -->
   <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
@@ -29,6 +34,15 @@ Aspiring Cybersecurity Professional & Emerging Developer <br>
   <img src="https://img.shields.io/badge/Express.js-000000.svg?style=for-the-badge&logo=express&logoColor=white">
   <img src="https://img.shields.io/badge/npm-CB3837.svg?style=for-the-badge&logo=npm&logoColor=white">
   <img src="https://img.shields.io/badge/Postman-FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white">
+</div>
+
+<h2 align="center">🔐 Cybersecurity & IT Skills</h2>
+<div align="center">
+  <img src="https://img.shields.io/badge/OpenSSL-721412.svg?style=for-the-badge&logo=openssl&logoColor=white">
+  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
+  <img src="https://img.shields.io/badge/Windows%2010%2F11-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=FCC624">
+  <img src="https://img.shields.io/badge/Encryption-AES--256%20%7C%20RSA-blue?style=for-the-badge">
 </div>
 
 <p>
