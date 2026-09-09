@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  B.S. in Cybersecurity and Information Assurance with hands-on experience investigating security incidents,
-  analyzing Windows and Active Directory activity, performing digital forensics, and implementing security controls.
+  B.S. in Cybersecurity and Information Assurance with hands-on experience in incident response,
+  SIEM analysis, Active Directory, Windows security, digital forensics, and network security.
 </p>
 
 <p align="center">
@@ -68,49 +68,6 @@
 
 <br>
 
-<h2 align="center">📂 Featured Cybersecurity Projects</h2>
-
-### 🖥️ Active Directory Enterprise Home Lab
-Built a virtual Windows Server and Windows 11 Active Directory environment focused on domain administration, user management, Group Policy, access control, and troubleshooting.
-
-➡️ [View Project](https://github.com/StanleyEscobar99/active-directory-home-lab)
-
----
-
-### 🔐 AES-256 Secure File Encryption & Transfer
-Implemented AES-256 encryption and secure file-transfer workflows using PowerShell, OpenSSL, SSH, SCP, and access-control principles.
-
-➡️ [View Project](https://github.com/StanleyEscobar99/secure-file-encryption-aes256)
-
----
-
-### 🔑 RSA Secure Email Encryption
-Implemented asymmetric encryption workflows using RSA keys and OpenSSL to protect sensitive information and demonstrate secure key-management concepts.
-
-➡️ [View Project](https://github.com/StanleyEscobar99/secure-email-encryption-openssl)
-
-<br>
-
-<h2 align="center">📋 Incident Response Experience</h2>
-
-- Investigated a simulated phishing-based compromise using Elastic SIEM, Windows Event Logs, Active Directory, endpoint artifacts, email, and firewall activity.
-- Identified credential theft, persistence, unauthorized administrator accounts, and privilege escalation.
-- Used PowerShell to investigate processes, file hashes, registry persistence, local users, and Active Directory accounts.
-- Identified Windows Event ID 4728 showing a compromised account adding a service account to Domain Admins.
-- Removed malicious persistence and unauthorized accounts, reset compromised credentials, and blocked malicious communication through pfSense.
-- Verified successful remediation through endpoint and network connectivity testing.
-
-<br>
-
-<h2 align="center">🔎 Digital Forensics Experience</h2>
-
-- Performed Windows forensic analysis using Autopsy and FTK Imager.
-- Examined system logs, browser artifacts, recovered deleted files, and endpoint evidence.
-- Correlated digital evidence to reconstruct suspicious activity and identify potential insider-threat and data-exfiltration behavior.
-- Preserved evidence integrity while documenting investigative findings.
-
-<br>
-
 <h2 align="center">📚 Security Frameworks</h2>
 
 <p align="center">
@@ -154,44 +111,6 @@ Implemented asymmetric encryption workflows using RSA keys and OpenSSL to protec
 <div align="center">
   <img src="https://img.shields.io/github/followers/StanleyEscobar99?style=social">
 </div>
-
-<p>
- <h2 align="center">💻 Scripting & Development</h2>
-
-<div align="center">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/JavaScript-000000.svg?style=for-the-badge&logo=javascript&logoColor=F7E017">
-  <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=git&logoColor=white">
-  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white">
-</div>
-
-<h2 align="center">🔐 Cybersecurity & IT Skills</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/OpenSSL-721412.svg?style=for-the-badge&logo=openssl&logoColor=white">
-  <img src="https://img.shields.io/badge/PowerShell-5391FE.svg?style=for-the-badge&logo=powershell&logoColor=white">
-  <img src="https://img.shields.io/badge/Windows%2010%2F11-0078D6.svg?style=for-the-badge&logo=windows&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux-000000.svg?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/Encryption-AES--256%20%7C%20RSA-blue?style=for-the-badge">
-</div>
-
-<p>
-  <h2 align="center">🛠️ Tools and Platforms</h2>
-<div align="center">
-  <!-- Tools and Platforms -->
-  <img src="https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white">
-  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078D7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Office-DC3E15.svg?style=for-the-badge&logo=microsoft-office&logoColor=white">
-  <img src="https://img.shields.io/badge/Slack-4A154B.svg?style=for-the-badge&logo=slack&logoColor=white">
-  <img src="https://img.shields.io/badge/Microsoft%20Teams-6264A7.svg?style=for-the-badge&logo=microsoft-teams&logoColor=white">
-</div>
-<h2 align="center">📜 Professional Certifications</h2>
-<div align="center">
-  <img src="https://img.shields.io/badge/CompTIA%20A%2B-ED1C24.svg?style=for-the-badge&logo=comptia&logoColor=white">
-  <img src="https://img.shields.io/badge/CompTIA%20Network%2B-ED1C24.svg?style=for-the-badge&logo=comptia&logoColor=white">
-  <img src="https://img.shields.io/badge/CompTIA%20Security%2B-ED1C24.svg?style=for-the-badge&logo=comptia&logoColor=white">
-  <img src="https://img.shields.io/badge/Linux%20Essentials-000000.svg?style=for-the-badge&logo=linux&logoColor=FCC624">
-  <img src="https://img.shields.io/badge/ITIL%204%20Foundation-5B2D8B.svg?style=for-the-badge">
-</div>
-</p>
+```
 
 
